@@ -1,10 +1,10 @@
-# Track1_Day18_MHV_HoVaTen
+# Track1_Day19_2A202602736_NguyenDuyKhanh
 
 ## 1. Thông tin cá nhân và nhóm
 
 - **MHV:** 2A202602736
 - **Họ và tên:** Nguyễn Duy Khánh
-- **Tên nhóm:** [Điền tên nhóm]
+- **Tên nhóm:** Deminer
 - **Thành viên:**
   - Nguyễn Phạm Oanh Oanh - 2A202602518
   - Nguyễn Duy Khánh - 2A202602736
